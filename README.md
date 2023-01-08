@@ -1,1 +1,1 @@
-This is a playground for me to leanr how to write broswer extensions.
+This is a playground for me to learn how to write browser extensions.
